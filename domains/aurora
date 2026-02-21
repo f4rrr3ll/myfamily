@@ -1,0 +1,13 @@
+{
+  "description": "Семейный мессенджер",
+  "domain": "is-cool.dev",
+  "subdomain": "aurora",
+
+  "owner": {
+    "email": "galagancia@gmail.com"
+  },
+
+  "record": {
+    "A": ["188.244.6.126"]
+  }
+}
